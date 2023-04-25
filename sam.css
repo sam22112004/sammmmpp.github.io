@@ -1,0 +1,34 @@
+body{
+    background-image: url();
+    display: inline;
+}
+.sam>li{
+    list-style: none;
+    float: left;
+    position: relative;
+    display: block;
+}
+.sam>li a{
+    text-decoration: none;
+    color: rgb(34, 232, 232);
+    padding: 0px 15px 0px 15px;
+    line-height: 50px;
+    display: block;
+}
+.menu-web{
+    width: 100%;
+    height: 50px;
+    background-color: #4b35db;
+    margin: 0px auto;
+}
+.footer {  
+    background-color: #e9d8f4; 
+    color: #58257b; 
+    padding: 5px; 
+    text-align: center;
+    margin-top: 650px;;
+}
+
+.clear {
+    clear:both;
+}
